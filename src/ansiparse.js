@@ -9,6 +9,8 @@ const foregroundColors = {
   '36': 'cyan',
   '37': 'white',
   '90': 'grey',
+  '107': 'green',
+  '203': 'red',
 };
 const backgroundColors = {
   '40': 'black',
@@ -19,6 +21,8 @@ const backgroundColors = {
   '45': 'magenta',
   '46': 'cyan',
   '47': 'white',
+  '107': 'green',
+  '203': 'red',
 };
 const styles = {
   '1': 'bold',
